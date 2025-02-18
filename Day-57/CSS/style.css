@@ -1,0 +1,109 @@
+*{
+color: aquamarine;
+}
+
+h2{
+    color: blueviolet;
+}
+
+#id1
+{
+    color: brown;
+}
+.bharti{
+    color: darksalmon;
+}
+h1{
+    text-decoration: underline double;
+}
+
+h2{
+    text-decoration: underline dotted;
+}
+
+h4{
+    
+    font-weight:lighter
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+    text-decoration: red underline;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+
+
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1739382122846-74e722a6eea4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#id1
+{
+    background-color: rgb(201, 115, 35);
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 20px;
+}
+
+#id2
+{
+    background-color: rgb(100, 86, 73);
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-style: dotted;
+    border-radius: 20px;
+}
+#id3
+{
+    background-color: rgb(138, 234, 239);
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-style: double;
+    border-radius: 30px;
+}
+#id4
+{
+    background-color: rgb(190, 59, 112);
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 40px;
+}
+#id5
+{
+    background-color: rgb(14, 184, 39);
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color:black;
+    border-radius: 50px;
+}

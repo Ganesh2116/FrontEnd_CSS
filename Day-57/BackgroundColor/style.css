@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+    color: blue;
+}
+
+h1{
+    background-color: aquamarine;
+    color: aqua;
+}
+
+#id1
+{
+    background-color: bisque;
+    color: brown;
+}
+
+.class
+{
+    background-color: yellow;
+}
