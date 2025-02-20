@@ -1,0 +1,33 @@
+#id1{
+    background-color: #00ffff;
+    border-style:  inherit;
+    margin-top:100px;
+}
+#id2{
+    background-color: rgb(219, 46, 72);
+    border-style: double;
+    margin-bottom: 100px;
+}
+#id3{
+    background-color: rgb(147, 194, 37);
+    border-style: dotted;
+   
+}
+#id4{
+    background-color: rgb(130, 14, 148);
+    border-style: dashed;
+    margin-left: 500px;
+}
+
+
+div{
+    color: rgb(45, 39, 39);
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin-left: 100px;
+   
+ }
